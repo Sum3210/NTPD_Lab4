@@ -86,11 +86,3 @@ Aplikacja API wykorzystująca model uczenia maszynowego (Logistic Regression) do
 
 ---
 
-## 📌 Repozytorium GitHub
-Repozytorium dostępne pod adresem: [https://github.com/TwojNick/ml-docker-app](https://github.com/TwojNick/ml-docker-app)
-
----
-
-## 📞 Kontakt
-Jeśli masz pytania, skontaktuj się na email: **twojemail@example.com**
-

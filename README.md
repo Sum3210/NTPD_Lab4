@@ -1,4 +1,4 @@
-#NTPD_Lab4
+# NTPD_Lab4
 
 Aplikacja API wykorzystująca model uczenia maszynowego (Logistic Regression) do klasyfikacji irysów. Zaimplementowana w Flask, uruchamiana w kontenerze Docker, z opcjonalnym wykorzystaniem Redis.
 
